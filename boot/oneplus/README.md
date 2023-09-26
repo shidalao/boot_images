@@ -1,0 +1,2 @@
+It's for Oneplus 7 devices. 
+DO NOT TRY TO FLASH ON YOUR DEVICE. IT MAY BRICK YOUR DEVICE.
